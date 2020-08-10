@@ -1,0 +1,24 @@
+.back{
+   height: 700px;
+   width: 100%;
+   background-image: url("../image/bg_main.png");
+   background-repeat:no-repeat;
+   position: relative;
+   // margin-top: -3%;
+
+}
+
+.back-2{
+   
+   background-image: url("../image/bg_c.png");
+   background-repeat:no-repeat;
+   position: relative;
+   // margin-top: -3%;
+
+}
+
+.shadow-cust {
+	 -webkit-box-shadow: 1px 6px 13px -7px rgba(237,223,237,1);
+-moz-box-shadow: 1px 6px 13px -7px rgba(237,223,237,1);
+box-shadow: 1px 6px 13px -7px rgba(237,223,237,1);
+}
